@@ -1,0 +1,62 @@
+{
+  "" : {
+    "transaction" : "",
+    "sampleCount" : 33,
+    "errorCount" : 33,
+    "errorPct" : 100.0,
+    "meanResTime" : 0.0,
+    "minResTime" : 0.0,
+    "maxResTime" : 0.0,
+    "pct1ResTime" : 0.0,
+    "pct2ResTime" : 0.0,
+    "pct3ResTime" : 0.0,
+    "throughput" : "Infinity",
+    "receivedKBytesPerSec" : "Infinity",
+    "sentKBytesPerSec" : "NaN"
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 847,
+    "errorCount" : 291,
+    "errorPct" : 34.356552,
+    "meanResTime" : 668.456906729633,
+    "minResTime" : 0.0,
+    "maxResTime" : 3472.0,
+    "pct1ResTime" : 1267.4,
+    "pct2ResTime" : 1458.6,
+    "pct3ResTime" : 2293.9199999999996,
+    "throughput" : 5.394621957317402E-7,
+    "receivedKBytesPerSec" : 1.7553412484628478E-5,
+    "sentKBytesPerSec" : 9.929192416504892E-8
+  },
+  "New User Taking Loan" : {
+    "transaction" : "New User Taking Loan",
+    "sampleCount" : 396,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 514.8181818181819,
+    "minResTime" : 100.0,
+    "maxResTime" : 1758.0,
+    "pct1ResTime" : 1091.6000000000001,
+    "pct2ResTime" : 1305.75,
+    "pct3ResTime" : 1651.4699999999987,
+    "throughput" : 0.0026869722699101374,
+    "receivedKBytesPerSec" : 0.0018579617035816736,
+    "sentKBytesPerSec" : 5.12447935077756E-4
+  },
+  "Existing User Taking Loan" : {
+    "transaction" : "Existing User Taking Loan",
+    "sampleCount" : 418,
+    "errorCount" : 258,
+    "errorPct" : 61.72249,
+    "meanResTime" : 866.7822966507179,
+    "minResTime" : 112.0,
+    "maxResTime" : 3472.0,
+    "pct1ResTime" : 1417.5000000000005,
+    "pct2ResTime" : 1635.7999999999993,
+    "pct3ResTime" : 2483.92,
+    "throughput" : 0.0028355052772382383,
+    "receivedKBytesPerSec" : 0.18496724744654777,
+    "sentKBytesPerSec" : 5.452110013439684E-4
+  }
+}
